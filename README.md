@@ -28,3 +28,18 @@ titanic-eda-analysis/
 
 Used the classic **Titanic dataset** from Kaggle:
 - [Kaggle Titanic Dataset](https://www.kaggle.com/code/junaiddata35/titanic-dataset-exploratory-data-analysis-eda)
+
+## 🛠 How to Run
+
+1. Clone the repository:  
+   git clone https://github.com/Ritik-19-12/titanic-eda-analysis.git  
+2. Install required libraries using pip (if not already installed):  
+   pip install pandas matplotlib seaborn  
+3. Launch Jupyter Notebook:  
+   jupyter notebook  
+4. Open and run the notebooks from the notebooks/ folder step by step.
+
+## 👤 Author
+
+- **Ritik Sotwal**
+- [GitHub Profile](https://github.com/Ritik-19-12)
